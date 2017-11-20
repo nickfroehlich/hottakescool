@@ -1,0 +1,14 @@
+body {
+    font-family: "Comic Sans MS";
+    color: skyblue;
+    background-color: crimson;
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+}
+
+.christmas-mode {
+    margin-left: 50%
+}
